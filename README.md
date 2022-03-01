@@ -1,10 +1,7 @@
-*P.s: я не сделаю вам проект, я только новичёк) Если вам нужен сайт: ищите на фриланс биржах. А гитхаб нужен для изучения*
-
-
 ### Обо мне
 * Зовут меня **Дима**
 * Мне **13 лет**
-* **Занимаюсь программированием**
+* **Занимаюсь программированием (Хобби)**
 ### Полезные ссылки
 * Веб-сайт: **скоро**
 ### Что я знаю
@@ -19,6 +16,3 @@
 ![aiogram](https://img.shields.io/badge/-aiogram-101010?style=for-the-badge&logo=telegram&labelColor=rgba(0%2C0%2C0%2C.8)&color=rgba(0%2C0%2C0%2C.5))
 #### Learning
 ![Javascript](https://img.shields.io/badge/-Typescript-101010?style=for-the-badge&logo=typescript&labelColor=rgba(0%2C0%2C0%2C.8)&color=rgba(0%2C0%2C0%2C.5))
-
-### Progress
-![script-exploited](https://progress-bar.dev/30/?title=Script%20exploited&scale=100&width=120)
