@@ -1,1 +1,1 @@
-### Backend, iOS App Development
+### Fullstack, iOS App Development
