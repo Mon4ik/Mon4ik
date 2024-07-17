@@ -9,4 +9,6 @@ aka **idkncc**
 > 
 > <img src="cat.png" width="300">
 
-[**@idkncc**](https://t.me/idkncc) (me) | [**@themerlusha**](https://t.me/themerlusha) (cat's channel)
+[**@idkncc organization**](https://github.com/idkncc) (pet-projects)
+
+tg: [**@idkncc**](https://t.me/idkncc) (me) | [**@themerlusha**](https://t.me/themerlusha) (cat's channel)
