@@ -1,13 +1,12 @@
 ### fullstack, a bit software dev.
+<img align="right" src="cat.png" width="300">
 
 aka **idkncc**
 
 - typescript, vue, scss
 - exploring rust
 
-> idk what write here else, so here's my cat's photo:
-> 
-> <img src="cat.png" width="300">
+
 
 [**@idkncc organization**](https://github.com/idkncc) (pet-projects)
 
