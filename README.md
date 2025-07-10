@@ -4,7 +4,7 @@
 aka **idkncc**
 
 - rust, cpp
-- svelte for websoy sites 
+- svelte for webslop development
 
 [**@idkncc organization**](https://github.com/idkncc) (projects are here)
 
