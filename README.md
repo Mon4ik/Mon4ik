@@ -3,11 +3,10 @@
 
 aka **idkncc**
 
-- rust, cpp
-- svelte for webslop development
+love networking, low level programming, C/C++ and _rust_.
+
+hate web _(current state)_ and ai slop.
 
 [**@idkncc organization**](https://github.com/idkncc) (projects are here)
 
-tg: [**@idkncc**](https://t.me/idkncc) (me) | [**@themerlusha**](https://t.me/themerlusha) (cat's channel)
-
-roblox: **@idk_ncc240px**
+[idkncc.dev](https://idkncc.dev)
