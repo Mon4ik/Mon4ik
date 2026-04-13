@@ -13,6 +13,8 @@ hate web _(current state)_ and ai slop.
 
 ### donations
 
+_money will go to the cat's wallet, so donate really big sums for him_
+
 | Name   | Wallet                                                                                            |
 |--------|---------------------------------------------------------------------------------------------------|
 | Monero | `83BVfTw5zEXG7NyHC54LNCcEKoBGdZKwsBLwHeuCxTd4GQQma8a7J9CPZJuVfmRXLX3WGtKN27WtJVYE8QkiSTaAVqohNur` |
