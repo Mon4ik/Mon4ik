@@ -7,9 +7,14 @@ love networking, low level programming, C/C++ and _rust_.
 
 hate web _(current state)_ and ai slop.
 
-[**@idkncc organization**](https://github.com/idkncc) (projects are here)
+### projects
 
-[idkncc.dev](https://idkncc.dev)
+you can find em at:
+
+- [codeberg](https://codeberg.org/idkncc)
+- [gitlab](https://gitlab.com/idkncc)
+- [github org](https://github.com/idkncc)
+- [website](https://idkncc.dev)
 
 ### donations
 
