@@ -3,7 +3,7 @@
 
 aka **idkncc**
 
-love networking, low level programming, C/C++, Rust and Kotlin.
+love photography, networking, low level programming, C/C++, Rust and Kotlin. Love exploring something new.
 
 hate web and ai slop.
 
